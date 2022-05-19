@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\bin\Debug\net5.0\FunWithArrays.exe
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\bin\Debug\net5.0\FunWithArrays.deps.json
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\bin\Debug\net5.0\FunWithArrays.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\bin\Debug\net5.0\FunWithArrays.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\bin\Debug\net5.0\FunWithArrays.dll
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\bin\Debug\net5.0\FunWithArrays.pdb
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.dll
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\refint\FunWithArrays.dll
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.pdb
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\FunWithArrays.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\pro-c-sharp-9-w-.net-core-5-main\pro-c-sharp-9-w-.net-core-5-main\SampleCode\Chapter_04\FunWithArrays\obj\Debug\net5.0\ref\FunWithArrays.dll
