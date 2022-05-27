@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\bin\Debug\net5.0\dynamic type.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\bin\Debug\net5.0\dynamic type.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\bin\Debug\net5.0\dynamic type.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\bin\Debug\net5.0\dynamic type.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\bin\Debug\net5.0\dynamic type.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\bin\Debug\net5.0\dynamic type.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\refint\dynamic type.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\dynamic type.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\dynamic type\dynamic type\obj\Debug\net5.0\ref\dynamic type.dll

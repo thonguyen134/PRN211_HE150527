@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Library/1.0.0": {
+      "type": "project",
+      "path": "../Library/Library.csproj",
+      "msbuildProject": "../Library/Library.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Library >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tkoko\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
+      "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
       "projectName": "Polymorphism",
-      "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
+      "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
       "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-      "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\Polymorphism\\Polymorphism\\obj\\",
+      "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Polymorphism\\Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Polymorphism\\Library\\Library.csproj": {
+              "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Polymorphism\\Library\\Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\bin\Debug\net5.0\Ref locals and Ref returns.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\bin\Debug\net5.0\Ref locals and Ref returns.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\bin\Debug\net5.0\Ref locals and Ref returns.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\bin\Debug\net5.0\Ref locals and Ref returns.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\bin\Debug\net5.0\Ref locals and Ref returns.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\bin\Debug\net5.0\Ref locals and Ref returns.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\refint\Ref locals and Ref returns.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\Ref locals and Ref returns.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Ref locals and Ref returns\Ref locals and Ref returns\obj\Debug\net5.0\ref\Ref locals and Ref returns.dll

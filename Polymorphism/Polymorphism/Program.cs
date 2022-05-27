@@ -1,9 +1,10 @@
 ﻿using System;
-
 namespace Polymorphism
 {
+    
     public abstract class Shape
     {
+        
         public int Height { get; set; }
         public int Width { get; set; }
 
@@ -55,7 +56,6 @@ namespace Polymorphism
             p.Draw();
             p.Print();
             Console.ReadLine();
-
         }
     }
 }

@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\bin\Debug\net5.0\Var keyword.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\bin\Debug\net5.0\Var keyword.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\bin\Debug\net5.0\Var keyword.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\bin\Debug\net5.0\Var keyword.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\bin\Debug\net5.0\Var keyword.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\bin\Debug\net5.0\Var keyword.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\refint\Var keyword.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\Var keyword.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot2\Var keyword\Var keyword\obj\Debug\net5.0\ref\Var keyword.dll

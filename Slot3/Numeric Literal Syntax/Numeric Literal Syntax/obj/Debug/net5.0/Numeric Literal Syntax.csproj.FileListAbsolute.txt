@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\bin\Debug\net5.0\Numeric Literal Syntax.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\bin\Debug\net5.0\Numeric Literal Syntax.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\bin\Debug\net5.0\Numeric Literal Syntax.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\bin\Debug\net5.0\Numeric Literal Syntax.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\bin\Debug\net5.0\Numeric Literal Syntax.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\bin\Debug\net5.0\Numeric Literal Syntax.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\refint\Numeric Literal Syntax.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\Numeric Literal Syntax.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Numeric Literal Syntax\Numeric Literal Syntax\obj\Debug\net5.0\ref\Numeric Literal Syntax.dll

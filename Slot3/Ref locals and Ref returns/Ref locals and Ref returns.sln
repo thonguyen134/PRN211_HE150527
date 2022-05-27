@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref locals and Ref returns", "Ref locals and Ref returns\Ref locals and Ref returns.csproj", "{C93382B7-93E1-44D4-A740-B7C335F8388C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93382B7-93E1-44D4-A740-B7C335F8388C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93382B7-93E1-44D4-A740-B7C335F8388C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93382B7-93E1-44D4-A740-B7C335F8388C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93382B7-93E1-44D4-A740-B7C335F8388C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DF2BB5-7496-4831-9E9B-E0A7C4F2CD62}
+	EndGlobalSection
+EndGlobal

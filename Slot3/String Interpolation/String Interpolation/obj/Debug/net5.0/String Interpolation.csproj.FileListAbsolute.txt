@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\bin\Debug\net5.0\String Interpolation.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\bin\Debug\net5.0\String Interpolation.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\bin\Debug\net5.0\String Interpolation.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\bin\Debug\net5.0\String Interpolation.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\bin\Debug\net5.0\String Interpolation.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\bin\Debug\net5.0\String Interpolation.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\refint\String Interpolation.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\String Interpolation.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\String Interpolation\String Interpolation\obj\Debug\net5.0\ref\String Interpolation.dll

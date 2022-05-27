@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\bin\Debug\net5.0\The Console Class.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\bin\Debug\net5.0\The Console Class.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\bin\Debug\net5.0\The Console Class.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\bin\Debug\net5.0\The Console Class.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\bin\Debug\net5.0\The Console Class.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\bin\Debug\net5.0\The Console Class.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\refint\The Console Class.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\The Console Class.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\The Console Class\The Console Class\obj\Debug\net5.0\ref\The Console Class.dll

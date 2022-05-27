@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Passing_Parameters_with_ref__out_and_params
+build_property.ProjectDir = E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot3\Passing Parameters with ref, out and params\Passing Parameters with ref, out and params\

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Passing_Parameters_with_ref__out_and_params_2</RootNamespace>
+  </PropertyGroup>
+
+</Project>
