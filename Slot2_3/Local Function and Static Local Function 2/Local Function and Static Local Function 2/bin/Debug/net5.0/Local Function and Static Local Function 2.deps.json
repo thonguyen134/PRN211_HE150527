@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Local Function and Static Local Function 2/1.0.0": {
+        "runtime": {
+          "Local Function and Static Local Function 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Local Function and Static Local Function 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\bin\Debug\net5.0\Assignment1_Factories_Method.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\bin\Debug\net5.0\Assignment1_Factories_Method.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\bin\Debug\net5.0\Assignment1_Factories_Method.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\bin\Debug\net5.0\Assignment1_Factories_Method.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\bin\Debug\net5.0\Assignment1_Factories_Method.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\bin\Debug\net5.0\Assignment1_Factories_Method.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\refint\Assignment1_Factories_Method.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\Assignment1_Factories_Method.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Assignment1_Factories_Method\Assignment1_Factories_Method\obj\Debug\net5.0\ref\Assignment1_Factories_Method.dll

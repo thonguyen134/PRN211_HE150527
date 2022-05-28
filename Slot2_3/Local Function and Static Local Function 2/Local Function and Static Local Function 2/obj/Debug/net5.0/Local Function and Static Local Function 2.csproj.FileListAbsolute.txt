@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\bin\Debug\net5.0\Local Function and Static Local Function 2.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\bin\Debug\net5.0\Local Function and Static Local Function 2.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\bin\Debug\net5.0\Local Function and Static Local Function 2.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\bin\Debug\net5.0\Local Function and Static Local Function 2.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\bin\Debug\net5.0\Local Function and Static Local Function 2.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\bin\Debug\net5.0\Local Function and Static Local Function 2.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\refint\Local Function and Static Local Function 2.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\Local Function and Static Local Function 2.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Local Function and Static Local Function 2\Local Function and Static Local Function 2\obj\Debug\net5.0\ref\Local Function and Static Local Function 2.dll

@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\bin\Debug\net5.0\Tuples2.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\bin\Debug\net5.0\Tuples2.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\bin\Debug\net5.0\Tuples2.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\bin\Debug\net5.0\Tuples2.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\bin\Debug\net5.0\Tuples2.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\bin\Debug\net5.0\Tuples2.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\refint\Tuples2.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\Tuples2.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Tuples2\Tuples2\obj\Debug\net5.0\ref\Tuples2.dll

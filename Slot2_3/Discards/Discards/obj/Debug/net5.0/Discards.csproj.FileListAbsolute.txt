@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\bin\Debug\net5.0\Discards.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\bin\Debug\net5.0\Discards.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\bin\Debug\net5.0\Discards.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\bin\Debug\net5.0\Discards.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\bin\Debug\net5.0\Discards.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\bin\Debug\net5.0\Discards.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\refint\Discards.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\Discards.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Discards\Discards\obj\Debug\net5.0\ref\Discards.dll

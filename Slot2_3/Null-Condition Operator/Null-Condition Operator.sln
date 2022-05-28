@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null-Condition Operator", "Null-Condition Operator\Null-Condition Operator.csproj", "{ECDA4BCA-A9AF-4439-8710-87E43C743A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDA4BCA-A9AF-4439-8710-87E43C743A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDA4BCA-A9AF-4439-8710-87E43C743A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDA4BCA-A9AF-4439-8710-87E43C743A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDA4BCA-A9AF-4439-8710-87E43C743A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C30521-2E1F-45CC-B472-ADD360081AAC}
+	EndGlobalSection
+EndGlobal
