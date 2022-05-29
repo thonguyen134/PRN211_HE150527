@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\bin\Debug\net5.0\Static Constructor.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\bin\Debug\net5.0\Static Constructor.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\bin\Debug\net5.0\Static Constructor.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\bin\Debug\net5.0\Static Constructor.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\bin\Debug\net5.0\Static Constructor.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\bin\Debug\net5.0\Static Constructor.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\refint\Static Constructor.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\Static Constructor.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Static Constructor\Static Constructor\obj\Debug\net5.0\ref\Static Constructor.dll

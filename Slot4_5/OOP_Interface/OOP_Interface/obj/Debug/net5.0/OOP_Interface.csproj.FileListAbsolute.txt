@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\bin\Debug\net5.0\OOP_Interface.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\bin\Debug\net5.0\OOP_Interface.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\bin\Debug\net5.0\OOP_Interface.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\bin\Debug\net5.0\OOP_Interface.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\bin\Debug\net5.0\OOP_Interface.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\bin\Debug\net5.0\OOP_Interface.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\refint\OOP_Interface.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\OOP_Interface.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4\OOP_Interface\OOP_Interface\obj\Debug\net5.0\ref\OOP_Interface.dll

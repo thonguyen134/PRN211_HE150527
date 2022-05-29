@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\bin\Debug\net5.0\Using Declarations.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\bin\Debug\net5.0\Using Declarations.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\bin\Debug\net5.0\Using Declarations.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\bin\Debug\net5.0\Using Declarations.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\bin\Debug\net5.0\Using Declarations.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\bin\Debug\net5.0\Using Declarations.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\refint\Using Declarations.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\Using Declarations.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot4_5\Using Declarations\Using Declarations\obj\Debug\net5.0\ref\Using Declarations.dll
