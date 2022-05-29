@@ -3,39 +3,6 @@ using System.Collections.Generic;
 using static System.Console;
 namespace Assignment1_Factories_Method
 {
-    public interface IAnimal
-    {
-        void AboutMe();
-    }
-    //lion class
-    public class Lion : IAnimal
-    {
-        public void AboutMe() => WriteLine("This is lion.");
-
-    }
-    public class Tiger : IAnimal
-    {
-        public void AboutMe() => WriteLine("This is tiger.");
-
-    }
-    /// <summary>
-    /// 
-    /// </summary>
-    public abstract class AnimalFactory
-    {
-        public abstract IAnimal CreateAnimal();
-    }
-    public class LionFactory : AnimalFactory
-    {
-
-        public override IAnimal CreateAnimal() => new Lion();
-    }
-
-    public class TigerFactory : AnimalFactory
-    {
-        public override IAnimal CreateAnimal() => new Tiger();
-        
-    }
     class Program
     {
         static void Main(String[] args)
@@ -52,6 +19,43 @@ namespace Assignment1_Factories_Method
                 animal.CreateAnimal().AboutMe();
             }
             ReadLine();
-                }
+        }
     }
+    //IAnimal Interface 
+    public interface IAnimal
+    {
+        void AboutMe();
+    }
+    //Lion class
+    public class Lion : IAnimal
+    {
+        public void AboutMe() => WriteLine("This is lion.");
+
+    }
+    //Tiger class
+    public class Tiger : IAnimal
+    {
+        public void AboutMe() => WriteLine("This is tiger.");
+
+    }
+    /// <summary>
+    /// 
+    /// </summary>
+    //AnimalFactory abstract class 
+    public abstract class AnimalFactory
+    {
+        public abstract IAnimal CreateAnimal();
+    }
+    //LionFactory class 
+    public class LionFactory : AnimalFactory
+    {
+        public override IAnimal CreateAnimal() => new Lion();
+    }
+    //TigerFactory class 
+    public class TigerFactory : AnimalFactory
+    {
+        public override IAnimal CreateAnimal() => new Tiger();
+        
+    }
+    
 }
