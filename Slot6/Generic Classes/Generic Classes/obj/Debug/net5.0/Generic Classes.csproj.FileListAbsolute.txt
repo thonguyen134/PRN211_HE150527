@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\bin\Debug\net5.0\Generic Classes.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\bin\Debug\net5.0\Generic Classes.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\bin\Debug\net5.0\Generic Classes.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\bin\Debug\net5.0\Generic Classes.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\bin\Debug\net5.0\Generic Classes.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\bin\Debug\net5.0\Generic Classes.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\refint\Generic Classes.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\Generic Classes.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Classes\Generic Classes\obj\Debug\net5.0\ref\Generic Classes.dll

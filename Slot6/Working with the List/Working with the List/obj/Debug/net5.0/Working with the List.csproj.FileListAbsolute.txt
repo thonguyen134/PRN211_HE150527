@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\bin\Debug\net5.0\Working with the List.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\bin\Debug\net5.0\Working with the List.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\bin\Debug\net5.0\Working with the List.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\bin\Debug\net5.0\Working with the List.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\bin\Debug\net5.0\Working with the List.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\bin\Debug\net5.0\Working with the List.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\refint\Working with the List.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\Working with the List.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the List\Working with the List\obj\Debug\net5.0\ref\Working with the List.dll

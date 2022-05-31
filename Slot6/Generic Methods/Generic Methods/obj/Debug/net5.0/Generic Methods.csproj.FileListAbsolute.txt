@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\bin\Debug\net5.0\Generic Methods.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\bin\Debug\net5.0\Generic Methods.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\bin\Debug\net5.0\Generic Methods.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\bin\Debug\net5.0\Generic Methods.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\bin\Debug\net5.0\Generic Methods.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\bin\Debug\net5.0\Generic Methods.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\refint\Generic Methods.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\Generic Methods.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Methods\Generic Methods\obj\Debug\net5.0\ref\Generic Methods.dll

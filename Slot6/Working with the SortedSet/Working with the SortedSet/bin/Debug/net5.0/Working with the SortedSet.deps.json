@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Working with the SortedSet/1.0.0": {
+        "runtime": {
+          "Working with the SortedSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Working with the SortedSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

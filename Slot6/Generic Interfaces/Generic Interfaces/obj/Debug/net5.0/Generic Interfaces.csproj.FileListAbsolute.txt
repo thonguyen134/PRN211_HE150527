@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\bin\Debug\net5.0\Generic Interfaces.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\refint\Generic Interfaces.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\Generic Interfaces.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Generic Interfaces\Generic Interfaces\obj\Debug\net5.0\ref\Generic Interfaces.dll

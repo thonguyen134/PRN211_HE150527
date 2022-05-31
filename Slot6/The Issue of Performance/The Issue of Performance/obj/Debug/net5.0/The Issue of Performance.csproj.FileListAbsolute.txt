@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\bin\Debug\net5.0\The Issue of Performance.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\bin\Debug\net5.0\The Issue of Performance.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\bin\Debug\net5.0\The Issue of Performance.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\bin\Debug\net5.0\The Issue of Performance.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\bin\Debug\net5.0\The Issue of Performance.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\bin\Debug\net5.0\The Issue of Performance.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\refint\The Issue of Performance.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\The Issue of Performance.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\The Issue of Performance\The Issue of Performance\obj\Debug\net5.0\ref\The Issue of Performance.dll

@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\bin\Debug\net5.0\Working with the SortedSet.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\bin\Debug\net5.0\Working with the SortedSet.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\bin\Debug\net5.0\Working with the SortedSet.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\bin\Debug\net5.0\Working with the SortedSet.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\bin\Debug\net5.0\Working with the SortedSet.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\bin\Debug\net5.0\Working with the SortedSet.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\refint\Working with the SortedSet.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\Working with the SortedSet.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot6\Working with the SortedSet\Working with the SortedSet\obj\Debug\net5.0\ref\Working with the SortedSet.dll
