@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\bin\Debug\net5.0\Working with BinaryWriter and BinaryReader.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\bin\Debug\net5.0\Working with BinaryWriter and BinaryReader.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\bin\Debug\net5.0\Working with BinaryWriter and BinaryReader.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\bin\Debug\net5.0\Working with BinaryWriter and BinaryReader.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\bin\Debug\net5.0\Working with BinaryWriter and BinaryReader.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\bin\Debug\net5.0\Working with BinaryWriter and BinaryReader.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\refint\Working with BinaryWriter and BinaryReader.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\Working with BinaryWriter and BinaryReader.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Working with BinaryWriter and BinaryReader\Working with BinaryWriter and BinaryReader\obj\Debug\net5.0\ref\Working with BinaryWriter and BinaryReader.dll

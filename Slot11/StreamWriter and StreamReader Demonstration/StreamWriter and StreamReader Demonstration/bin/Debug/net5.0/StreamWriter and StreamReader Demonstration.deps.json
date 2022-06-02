@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StreamWriter and StreamReader Demonstration/1.0.0": {
+        "runtime": {
+          "StreamWriter and StreamReader Demonstration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamWriter and StreamReader Demonstration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\bin\Debug\net5.0\FileStream Class Demonstration.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\bin\Debug\net5.0\FileStream Class Demonstration.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\bin\Debug\net5.0\FileStream Class Demonstration.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\bin\Debug\net5.0\FileStream Class Demonstration.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\bin\Debug\net5.0\FileStream Class Demonstration.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\bin\Debug\net5.0\FileStream Class Demonstration.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\refint\FileStream Class Demonstration.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\FileStream Class Demonstration.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\FileStream Class Demonstration\FileStream Class Demonstration\obj\Debug\net5.0\ref\FileStream Class Demonstration.dll

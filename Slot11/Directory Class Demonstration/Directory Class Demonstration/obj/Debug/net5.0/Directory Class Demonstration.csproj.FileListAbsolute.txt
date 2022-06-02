@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\bin\Debug\net5.0\Directory Class Demonstration.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\bin\Debug\net5.0\Directory Class Demonstration.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\bin\Debug\net5.0\Directory Class Demonstration.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\bin\Debug\net5.0\Directory Class Demonstration.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\bin\Debug\net5.0\Directory Class Demonstration.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\bin\Debug\net5.0\Directory Class Demonstration.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\refint\Directory Class Demonstration.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\Directory Class Demonstration.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\Directory Class Demonstration\Directory Class Demonstration\obj\Debug\net5.0\ref\Directory Class Demonstration.dll

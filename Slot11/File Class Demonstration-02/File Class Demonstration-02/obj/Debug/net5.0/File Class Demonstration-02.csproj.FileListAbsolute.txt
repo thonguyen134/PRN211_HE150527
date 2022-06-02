@@ -1,0 +1,16 @@
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\bin\Debug\net5.0\File Class Demonstration-02.exe
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\bin\Debug\net5.0\File Class Demonstration-02.deps.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\bin\Debug\net5.0\File Class Demonstration-02.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\bin\Debug\net5.0\File Class Demonstration-02.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\bin\Debug\net5.0\File Class Demonstration-02.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\bin\Debug\net5.0\File Class Demonstration-02.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\refint\File Class Demonstration-02.dll
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.pdb
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\File Class Demonstration-02.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\PRN211_HE150527\Slot11\File Class Demonstration-02\File Class Demonstration-02\obj\Debug\net5.0\ref\File Class Demonstration-02.dll
