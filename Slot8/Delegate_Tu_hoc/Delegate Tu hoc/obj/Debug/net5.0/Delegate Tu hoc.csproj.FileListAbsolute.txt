@@ -1,0 +1,21 @@
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate Tu hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate Tu hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate Tu hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate Tu hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate Tu hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\bin\Debug\net5.0\Delegate Tu hoc.exe
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\bin\Debug\net5.0\Delegate Tu hoc.deps.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\bin\Debug\net5.0\Delegate Tu hoc.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\bin\Debug\net5.0\Delegate Tu hoc.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\bin\Debug\net5.0\Delegate Tu hoc.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\bin\Debug\net5.0\Delegate Tu hoc.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\refint\Delegate Tu hoc.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\Delegate Tu hoc.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot8\Delegate_Tu_hoc\Delegate Tu hoc\obj\Debug\net5.0\ref\Delegate Tu hoc.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Slot11\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj": {}
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot12\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj": {}
   },
   "projects": {
-    "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Slot11\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj": {
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot12\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Slot11\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj",
+        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot12\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj",
         "projectName": "File Class Demonstration-01",
-        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Slot11\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj",
+        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot12\\File Class Demonstration-01\\File Class Demonstration-01\\File Class Demonstration-01.csproj",
         "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\PRN211_HE150527\\Slot11\\File Class Demonstration-01\\File Class Demonstration-01\\obj\\",
+        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot12\\File Class Demonstration-01\\File Class Demonstration-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
