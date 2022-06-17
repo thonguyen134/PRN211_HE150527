@@ -10,3 +10,15 @@ E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\AutomobileSolution\Automobi
 E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
 E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
 E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab_1_Nguyễn Đình Thọ_HE150527\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll

@@ -76,6 +76,7 @@
             this.dgvCarList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvCarList.Size = new System.Drawing.Size(804, 197);
             this.dgvCarList.TabIndex = 2;
+            this.dgvCarList.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCarList_CellContentClick);
             // 
             // txtCarID
             // 

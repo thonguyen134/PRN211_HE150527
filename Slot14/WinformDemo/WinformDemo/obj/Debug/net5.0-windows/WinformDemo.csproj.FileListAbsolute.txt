@@ -16,3 +16,4 @@ E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\WinformDemo\WinformDemo\obj
 E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\WinformDemo\WinformDemo\obj\Debug\net5.0-windows\WinformDemo.pdb
 E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\WinformDemo\WinformDemo\obj\Debug\net5.0-windows\WinformDemo.genruntimeconfig.cache
 E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\WinformDemo\WinformDemo\obj\Debug\net5.0-windows\ref\WinformDemo.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Slot14\WinformDemo\WinformDemo\obj\Debug\net5.0-windows\WinformDemo.Properties.Resources.resources

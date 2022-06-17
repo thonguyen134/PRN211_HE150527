@@ -167,8 +167,11 @@ namespace AutomobileSolution
                 MessageBox.Show(ex.Message, "Delete a car");
             }
         }
-
         private void btnClose_Click_1(object sender, EventArgs e) => Close();
-        
+
+        private void dgvCarList_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

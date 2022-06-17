@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot14\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
+      "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
       "projectName": "AutomobileSolution",
-      "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot14\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
+      "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
       "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-      "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot14\\AutomobileSolution\\AutomobileSolution\\obj\\",
+      "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot14\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-              "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot14\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
+            "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+              "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
             }
           }
         }
