@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj": {}
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\obj\\",
+        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj": {
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\obj\\",
+        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj"
+              "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }

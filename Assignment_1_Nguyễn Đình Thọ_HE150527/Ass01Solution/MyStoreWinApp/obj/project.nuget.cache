@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fK/8UhlVd9PhY/pEV/hgSOde3F4ik1EUeu/Nt+dmHseCI2YPU5/ReU4/m6ERq+F/ffsBywIv9pu957kf9L5UKg==",
+  "dgSpecHash": "PubQmK2HJGKIk6UWYZAfqhJG0Zxo2Lf03Aqzp/Ge3zAfD2e+4DyMuhiUUObA19HMn65NGsmt4UlO9lz3Vzb16w==",
   "success": true,
-  "projectFilePath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "projectFilePath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tkoko\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\tkoko\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",

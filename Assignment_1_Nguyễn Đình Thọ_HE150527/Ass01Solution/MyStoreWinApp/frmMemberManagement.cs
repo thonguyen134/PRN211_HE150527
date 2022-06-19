@@ -117,7 +117,9 @@ namespace MyStoreWinApp
             try
             {
             var member = GetMemberObject();
-            memberRepository.deleteMember(member.MemberID);
+                if (member != null) {
+                    memberRepository.deleteMember(member.MemberID);
+                }
             LoadDVGMemberList();
             }
             catch(Exception ex)

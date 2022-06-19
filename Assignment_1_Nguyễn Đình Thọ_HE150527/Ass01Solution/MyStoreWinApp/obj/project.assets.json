@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+      "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
       "projectName": "MyStoreWinApp",
-      "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+      "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
       "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-      "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\obj\\",
+      "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\MyStoreWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,11 +221,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj"
+            "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\BusinessObject\\BusinessObject.csproj"
             },
-            "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_2_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj"
+            "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj"
             }
           }
         }
