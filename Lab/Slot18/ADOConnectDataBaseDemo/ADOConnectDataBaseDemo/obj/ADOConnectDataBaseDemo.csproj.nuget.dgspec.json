@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj": {}
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj": {}
   },
   "projects": {
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj": {
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj",
+        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj",
         "projectName": "ADOConnectDataBaseDemo",
-        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj",
+        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo.csproj",
         "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\obj\\",
+        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab\\Slot18\\ADOConnectDataBaseDemo\\ADOConnectDataBaseDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",

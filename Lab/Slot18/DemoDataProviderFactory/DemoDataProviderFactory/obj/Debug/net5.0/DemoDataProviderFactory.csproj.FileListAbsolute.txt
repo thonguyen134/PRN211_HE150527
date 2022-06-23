@@ -1,0 +1,159 @@
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.exe
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\appsettings.json
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.deps.json
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.runtimeconfig.json
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.runtimeconfig.dev.json
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.pdb
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Drawing.Common.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Runtime.Caching.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Security.Permissions.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Windows.Extensions.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.AssemblyReference.cache
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.GeneratedMSBuildEditorConfig.editorconfig
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.AssemblyInfoInputs.cache
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.AssemblyInfo.cs
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.CoreCompileInputs.cache
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.CopyComplete
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\refint\DemoDataProviderFactory.dll
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.pdb
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.genruntimeconfig.cache
+I:\Ki_5\PRN211\PRN211-HE153254\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\ref\DemoDataProviderFactory.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.exe
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\appsettings.json
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.deps.json
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.runtimeconfig.json
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.runtimeconfig.dev.json
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.pdb
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Drawing.Common.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Runtime.Caching.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Security.Permissions.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Windows.Extensions.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.AssemblyReference.cache
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.GeneratedMSBuildEditorConfig.editorconfig
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.AssemblyInfoInputs.cache
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.AssemblyInfo.cs
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.CoreCompileInputs.cache
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.CopyComplete
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\refint\DemoDataProviderFactory.dll
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.pdb
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.genruntimeconfig.cache
+I:\Ki_5\PRN211\PRN211_SE1616.NET_HE153254test\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\ref\DemoDataProviderFactory.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.exe
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\appsettings.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.deps.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\DemoDataProviderFactory.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.csproj.CopyComplete
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\refint\DemoDataProviderFactory.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\DemoDataProviderFactory.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Lab\Slot18\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net5.0\ref\DemoDataProviderFactory.dll
