@@ -99,6 +99,7 @@
             this.btDelete.TabIndex = 7;
             this.btDelete.Text = "Delete";
             this.btDelete.UseVisualStyleBackColor = true;
+            this.btDelete.Click += new System.EventHandler(this.btDelete_Click);
             // 
             // btUpdate
             // 
@@ -108,6 +109,7 @@
             this.btUpdate.TabIndex = 8;
             this.btUpdate.Text = "Update";
             this.btUpdate.UseVisualStyleBackColor = true;
+            this.btUpdate.Click += new System.EventHandler(this.btUpdate_Click);
             // 
             // frmManageCategories
             // 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ManageCategoriesApp.Model
 {
-     class Categories
+    class Categories
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
@@ -15,6 +15,9 @@ namespace ManageCategoriesApp.Model
         {
             CategoryId = categoryId;
             CategoryName = categoryName;
+        }
+        public Categories()
+        {
         }
     }
 }

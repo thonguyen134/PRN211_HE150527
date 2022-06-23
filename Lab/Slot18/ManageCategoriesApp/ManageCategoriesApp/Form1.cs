@@ -19,8 +19,7 @@ namespace ManageCategoriesApp
             InitializeComponent();
         }
 
-        private void frmManageCategories_Load(object sender, EventArgs e)
-        {
+        private void DisplayAllCategories() {
             var categories = categoriesDAO.GetAllCategories();
             txtCategoryID.DataBindings.Clear();
             txtCategoryName.DataBindings.Clear();
@@ -28,18 +27,60 @@ namespace ManageCategoriesApp
             txtCategoryID.DataBindings.Add("Text", categories, "CategoryID");
             txtCategoryName.DataBindings.Add("Text", categories, "CategoryName");
 
-            dgvCategories.DataSource = categories;  
+            txtCategoryID.Enabled = false;
+            dgvCategories.DataSource = categories;
+        }
+        private void frmManageCategories_Load(object sender, EventArgs e)
+        {
+            DisplayAllCategories();
         }
 
         private void btInsert_Click(object sender, EventArgs e)
         {
             try
             {
-
+                categoriesDAO.InsertCategories(new Categories
+                {
+                    CategoryName = txtCategoryName.Text
+                });
+                DisplayAllCategories();
             }
             catch
             {
+                MessageBox.Show("not oke");
+            }
+        }
 
+        private void btUpdate_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                categoriesDAO.UpdateCategories(new Categories
+                {
+                    CategoryId = Convert.ToInt32(txtCategoryID.Text),
+                    CategoryName = txtCategoryName.Text
+                });
+                DisplayAllCategories();
+            }
+            catch
+            {
+                MessageBox.Show("not oke");
+            }
+        }
+
+        private void btDelete_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                categoriesDAO.DeleteCategories(new Categories
+                {
+                    CategoryId = Convert.ToInt32(txtCategoryID.Text),
+                });
+                DisplayAllCategories();
+            }
+            catch
+            {
+                MessageBox.Show("not oke");
             }
         }
     }

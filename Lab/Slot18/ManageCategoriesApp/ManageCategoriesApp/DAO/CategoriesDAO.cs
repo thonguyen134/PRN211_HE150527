@@ -27,9 +27,35 @@ namespace ManageCategoriesApp.DAO
         }
         public void InsertCategories(Categories categories)
         {
-            string sql = "INSERT INTO [Categories] ([CategoryName]) VALUES (@CategoryName)";
-            SqlCommand command = new SqlCommand(sql, DAO.GetConnection());
+            string sql = "INSERT INTO [Categories]([CategoryName])"
+                           + "VALUES(@CategoryName)";
+            SqlConnection connection = DAO.GetConnection();
+            connection.Open();
+            SqlCommand command = new SqlCommand(sql, connection);
             command.Parameters.AddWithValue("@CategoryName", categories.CategoryName);
+            command.ExecuteNonQuery();
+            connection.Close();
+        }
+        public void UpdateCategories(Categories categories)
+        {
+            string sql = "UPDATE Categories SET CategoryName = @CategoryName WHERE CategoryID = @CategoryID";
+            SqlConnection connection = DAO.GetConnection();
+            SqlCommand command = new SqlCommand(sql, connection);
+            command.Parameters.AddWithValue("@CategoryName", categories.CategoryName);
+            command.Parameters.AddWithValue("@CategoryID", categories.CategoryId);
+            connection.Open();
+            command.ExecuteNonQuery();
+            connection.Close();
+        }
+        public void DeleteCategories(Categories categories)
+        {
+            string sql = "DELETE FROM Categories WHERE CategoryID = @CategoryID";
+            SqlConnection connection = DAO.GetConnection();
+            SqlCommand command = new SqlCommand(sql, connection);
+            command.Parameters.AddWithValue("@CategoryID", categories.CategoryId);
+            connection.Open();
+            command.ExecuteNonQuery();
+            connection.Close();
         }
     }
 }
