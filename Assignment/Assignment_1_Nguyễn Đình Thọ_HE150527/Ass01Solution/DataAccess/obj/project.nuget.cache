@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+59zddQ/MXfTWSFLAhX9wkpfjcXLU61DG/KTkH4+BGqHPlj2KjEYVX2tGrNjQpsBA65WS2plO3c1tE7eZV/5g==",
+  "dgSpecHash": "1Gqw/NHg7U9LV6yulRs98awI2gzAreYMbP/IeqRl1RcqZqJD7x7PcDX3PLEifXVH8J24wtDazlAxT4gu+XyQbA==",
   "success": true,
-  "projectFilePath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Assignment\\Assignment_1_Nguyễn Đình Thọ_HE150527\\Ass01Solution\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tkoko\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
