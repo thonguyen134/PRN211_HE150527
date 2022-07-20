@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj": {}
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj": {}
   },
   "projects": {
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "projectName": "AutomobileLibrary",
-        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\obj\\",
+        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj": {
+    "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
+        "projectUniqueName": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
         "projectName": "AutomobileSolution",
-        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
+        "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\AutomobileSolution.csproj",
         "packagesPath": "C:\\Users\\tkoko\\.nuget\\packages\\",
-        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\obj\\",
+        "outputPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-                "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
+              "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+                "projectPath": "E:\\StudyFPT Kì 5\\PRN211\\test\\PRN211_HE150527\\Hands-on-Lab\\Lab_1_Nguyễn Đình Thọ_HE150527\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
               }
             }
           }

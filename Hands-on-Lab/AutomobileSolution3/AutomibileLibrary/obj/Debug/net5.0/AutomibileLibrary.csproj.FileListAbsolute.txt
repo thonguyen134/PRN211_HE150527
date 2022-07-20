@@ -1,0 +1,45 @@
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.deps.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\refint\AutomibileLibrary.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\ref\AutomibileLibrary.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.deps.json
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.pdb
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\refint\AutomibileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.pdb
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\wang2\PRN211_SE1612.NET_HE150537-main\PRN211_SE1612.NET_HE150537-main\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\ref\AutomibileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.deps.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\bin\Debug\net5.0\AutomibileLibrary.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\refint\AutomibileLibrary.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\AutomibileLibrary.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Hands-on-Lab\AutomobileSolution3\AutomibileLibrary\obj\Debug\net5.0\ref\AutomibileLibrary.dll
